@@ -1,0 +1,15 @@
+<resources>
+    <string name = "app_name">CompApp</string>
+    <string name = "go_back">Volver</string>
+    <string name = "menu">Menu</string>
+    <string name = "my_tasks">Mis tareas</string>
+    <string name = "chat_notifications">Mensajes y notificaciones</string>
+
+    <string name = "options">Opciones</string>
+    <string name = "configuration">Configuración</string>
+    <string name = "history">Historial de Encargos</string>
+    <string name = "contact">Contacto</string>
+    <string name = "logout">Cerrar sesión</string>
+
+
+</resources>
